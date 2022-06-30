@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TesDevMobil">
         <activity
-            android:name="id.azriel.tesdevmobil.MainActivity"
+            android:name="id.azriel.tesdevmobil.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
