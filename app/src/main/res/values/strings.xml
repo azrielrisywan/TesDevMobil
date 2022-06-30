@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TesDevMobil</string>
+    <string name="hatoca">HATOCA</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="forgot_pass">forgot password?</string>
+    <string name="LOGIN">login</string>
+    <string name="SignUpQ">Don\'t have an account?</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="greet">Halo, Bitna Putri</string>
+    <string name="text_greet">Kumpulkan koin hasjrat</string>
+    <string name="number">160</string>
+</resources>
